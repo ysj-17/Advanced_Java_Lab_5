@@ -1,0 +1,366 @@
+Jason Yoon
+
+Connecting to host ... 
+Connected to host, creating object streams ... 
+Communicating with host ... 
+
+Received server response ... 
+
+Enter 1 to upload a new Automobile
+Enter 2 to configure an Automobile
+Enter 0 to terminate connection
+
+
+Response to server: 
+1
+
+Sending to server ... 
+
+Received server response ... 
+Upload a file to create an Automobile
+
+Response to server: 
+Ford ZTW.properties
+
+Sending to server ... 
+
+Received server response ... 
+Automobile object successfully added to database
+Press any key to return to main menu
+
+Response to server: 
+
+
+Sending to server ... 
+
+Received server response ... 
+
+Enter 1 to upload a new Automobile
+Enter 2 to configure an Automobile
+Enter 0 to terminate connection
+
+
+Response to server: 
+1
+
+Sending to server ... 
+
+Received server response ... 
+Upload a file to create an Automobile
+
+Response to server: 
+AudiS5.properties
+
+Sending to server ... 
+
+Received server response ... 
+Automobile object successfully added to database
+Press any key to return to main menu
+
+Response to server: 
+
+
+Sending to server ... 
+
+Received server response ... 
+
+Enter 1 to upload a new Automobile
+Enter 2 to configure an Automobile
+Enter 0 to terminate connection
+
+
+Response to server: 
+2
+
+Sending to server ... 
+
+Received server response ... 
+Select an Automobile from the following list to configure: 
+Name: Ford ZTW
+Name: Audi S5
+
+
+Response to server: 
+Ford ZTW
+
+Sending to server ... 
+
+Received server response ... 
+model.Automobile@eff7ad9
+
+Name of Auto: Ford ZTW
+Base Price: 18455.0
+Number of Options: 5
+Options Sets:
+
+  #1. Color
+	- Fort Knox Gold Clearcoat Metallic Price: 0.0
+	- Liquid Grey Clearcoat Metallic Price: 0.0
+	- Infra-Red Clearcoat Price: 0.0
+	- Grabber Green Clearcoat Metallic Price: 0.0
+	- Sangria Red Clearcoat Metallic Price: 0.0
+	- French Blue Clearcoat Metallic Price: 0.0
+	- Twilight Blue Clearcoat Metallic Price: 0.0
+	- CD Silver Clearcoat Metallic Price: 0.0
+	- Pitch Black Clearcoat Price: 0.0
+	- Cloud 9 White Clearcoat Price: 0.0
+  #2. Transmission
+	- Automatic Price: 0.0
+	- Manual Price: -815.0
+  #3. Brakes/Traction Control
+	- Standard Price: 0.0
+	- ABS Price: 400.0
+	- ABS with Advance Trac Price: 1625.0
+  #4. Side Impact Air Bags
+	- Present Price: 350.0
+	- Not Present Price: 0.0
+  #5. Power Moonroof
+	- Present Price: 595.0
+	- Not Present Price: 0.0
+Which OptionSet do you wish to select?
+Power Moonroof
+Which Option do you want to choose?
+Present
+Enter "Done" when finished or press any key to continue...
+Done
+
+Name of Auto: Ford ZTW
+Base Price: 18455.0
+Number of Custom Options: 1
+4 more Custom Options may be chosen
+Options Sets:
+
+  #1. Power Moonroof
+	- Present Price: 595.0
+
+Total Price: 19050.0
+Response to server: 
+
+
+Sending to server ... 
+
+Received server response ... 
+
+Enter 1 to upload a new Automobile
+Enter 2 to configure an Automobile
+Enter 0 to terminate connection
+
+
+Response to server: 
+2
+
+Sending to server ... 
+
+Received server response ... 
+Select an Automobile from the following list to configure: 
+Name: Ford ZTW
+Name: Audi S5
+
+
+Response to server: 
+Audi S5
+
+Sending to server ... 
+
+Received server response ... 
+model.Automobile@d05d41b
+
+Name of Auto: Audi S5
+Base Price: 55000.0
+Number of Options: 5
+Options Sets:
+
+  #1. Color
+	- Nardo Grey Price: 0.0
+	- Florett Silver Metallic Price: 0.0
+	- Glacier White Metallic Price: 0.0
+	- Mythos Black Metallic Price: 0.0
+	- Audi Exclustice Paint Price: 0.0
+	- Turqiose Blue Ocean Price: 0.0
+	- Yummy Tummy Gummy Price: 0.0
+	- Pitch Blackness In My Soul Price: 0.0
+	- I want to fly away Price: 0.0
+	- Programming is hard Price: 0.0
+  #2. Transmission
+	- Eight-speed Tiptronic Price: 0.0
+	- CVT Price: 1000.0
+  #3. Brakes/Traction Control
+	- Standard Price: 0.0
+	- ABS Price: 1000.0
+	- ABS with Advance Trac Price: 1450.0
+  #4. Side Impact Air Bags
+	- Present Price: 0.0
+	- Not Present Price: -1111.0
+  #5. Sound System
+	- Stock Sound Price: 0.0
+	- Bang & Olufsen Sound System Price: 2000.0
+Which OptionSet do you wish to select?
+Color
+Which Option do you want to choose?
+Pitch Blackness In My Soul
+Enter "Done" when finished or press any key to continue...
+
+Name of Auto: Audi S5
+Base Price: 55000.0
+Number of Options: 5
+Options Sets:
+
+  #1. Color
+	- Nardo Grey Price: 0.0
+	- Florett Silver Metallic Price: 0.0
+	- Glacier White Metallic Price: 0.0
+	- Mythos Black Metallic Price: 0.0
+	- Audi Exclustice Paint Price: 0.0
+	- Turqiose Blue Ocean Price: 0.0
+	- Yummy Tummy Gummy Price: 0.0
+	- Pitch Blackness In My Soul Price: 0.0
+	- I want to fly away Price: 0.0
+	- Programming is hard Price: 0.0
+  #2. Transmission
+	- Eight-speed Tiptronic Price: 0.0
+	- CVT Price: 1000.0
+  #3. Brakes/Traction Control
+	- Standard Price: 0.0
+	- ABS Price: 1000.0
+	- ABS with Advance Trac Price: 1450.0
+  #4. Side Impact Air Bags
+	- Present Price: 0.0
+	- Not Present Price: -1111.0
+  #5. Sound System
+	- Stock Sound Price: 0.0
+	- Bang & Olufsen Sound System Price: 2000.0
+Which OptionSet do you wish to select?
+Transmission
+Which Option do you want to choose?
+CVT
+Enter "Done" when finished or press any key to continue...
+
+Name of Auto: Audi S5
+Base Price: 55000.0
+Number of Options: 5
+Options Sets:
+
+  #1. Color
+	- Nardo Grey Price: 0.0
+	- Florett Silver Metallic Price: 0.0
+	- Glacier White Metallic Price: 0.0
+	- Mythos Black Metallic Price: 0.0
+	- Audi Exclustice Paint Price: 0.0
+	- Turqiose Blue Ocean Price: 0.0
+	- Yummy Tummy Gummy Price: 0.0
+	- Pitch Blackness In My Soul Price: 0.0
+	- I want to fly away Price: 0.0
+	- Programming is hard Price: 0.0
+  #2. Transmission
+	- Eight-speed Tiptronic Price: 0.0
+	- CVT Price: 1000.0
+  #3. Brakes/Traction Control
+	- Standard Price: 0.0
+	- ABS Price: 1000.0
+	- ABS with Advance Trac Price: 1450.0
+  #4. Side Impact Air Bags
+	- Present Price: 0.0
+	- Not Present Price: -1111.0
+  #5. Sound System
+	- Stock Sound Price: 0.0
+	- Bang & Olufsen Sound System Price: 2000.0
+Which OptionSet do you wish to select?
+Brakes/Traction Control
+Which Option do you want to choose?
+ABS
+Enter "Done" when finished or press any key to continue...
+
+Name of Auto: Audi S5
+Base Price: 55000.0
+Number of Options: 5
+Options Sets:
+
+  #1. Color
+	- Nardo Grey Price: 0.0
+	- Florett Silver Metallic Price: 0.0
+	- Glacier White Metallic Price: 0.0
+	- Mythos Black Metallic Price: 0.0
+	- Audi Exclustice Paint Price: 0.0
+	- Turqiose Blue Ocean Price: 0.0
+	- Yummy Tummy Gummy Price: 0.0
+	- Pitch Blackness In My Soul Price: 0.0
+	- I want to fly away Price: 0.0
+	- Programming is hard Price: 0.0
+  #2. Transmission
+	- Eight-speed Tiptronic Price: 0.0
+	- CVT Price: 1000.0
+  #3. Brakes/Traction Control
+	- Standard Price: 0.0
+	- ABS Price: 1000.0
+	- ABS with Advance Trac Price: 1450.0
+  #4. Side Impact Air Bags
+	- Present Price: 0.0
+	- Not Present Price: -1111.0
+  #5. Sound System
+	- Stock Sound Price: 0.0
+	- Bang & Olufsen Sound System Price: 2000.0
+Which OptionSet do you wish to select?
+Side Impact Air Bags
+Which Option do you want to choose?
+Present
+Enter "Done" when finished or press any key to continue...
+
+Name of Auto: Audi S5
+Base Price: 55000.0
+Number of Options: 5
+Options Sets:
+
+  #1. Color
+	- Nardo Grey Price: 0.0
+	- Florett Silver Metallic Price: 0.0
+	- Glacier White Metallic Price: 0.0
+	- Mythos Black Metallic Price: 0.0
+	- Audi Exclustice Paint Price: 0.0
+	- Turqiose Blue Ocean Price: 0.0
+	- Yummy Tummy Gummy Price: 0.0
+	- Pitch Blackness In My Soul Price: 0.0
+	- I want to fly away Price: 0.0
+	- Programming is hard Price: 0.0
+  #2. Transmission
+	- Eight-speed Tiptronic Price: 0.0
+	- CVT Price: 1000.0
+  #3. Brakes/Traction Control
+	- Standard Price: 0.0
+	- ABS Price: 1000.0
+	- ABS with Advance Trac Price: 1450.0
+  #4. Side Impact Air Bags
+	- Present Price: 0.0
+	- Not Present Price: -1111.0
+  #5. Sound System
+	- Stock Sound Price: 0.0
+	- Bang & Olufsen Sound System Price: 2000.0
+Which OptionSet do you wish to select?
+Sound System
+Which Option do you want to choose?
+Bang & Olufsen Sound System
+Enter "Done" when finished or press any key to continue...
+Done
+
+Name of Auto: Audi S5
+Base Price: 55000.0
+Number of Custom Options: 5
+0 more Custom Options may be chosen
+Options Sets:
+
+  #1. Color
+	- Pitch Blackness In My Soul Price: 0.0
+
+  #2. Transmission
+	- CVT Price: 1000.0
+
+  #3. Brakes/Traction Control
+	- ABS Price: 1000.0
+
+  #4. Side Impact Air Bags
+	- Present Price: 0.0
+
+  #5. Sound System
+	- Bang & Olufsen Sound System Price: 2000.0
+
+Total Price: 59000.0
+Response to server: 
